@@ -1,0 +1,15 @@
+.fontpassword {
+    position: relative;
+}
+
+.fontpassword i{
+    position: absolute;
+    left: 100px;
+    top: 40px;
+    color: gray;
+}
+.showItems .eachItem h3 {
+    padding-left: 1rem;
+    font-size: 1.6rem;
+    color: #fff;
+  }
